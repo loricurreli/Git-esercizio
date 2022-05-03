@@ -6,6 +6,8 @@ Menù Di Pesce E Di Carne
 Maloreddus alla campidanese
 Lasagne alla bolognese
 Carbonara
+Pizza
+Lasagne
 
 -Secondi piatti
 Maialetto arrosto
@@ -21,4 +23,5 @@ Mirto
 menu Carne
 involtini siciliani
 angello fritto 
+
 
