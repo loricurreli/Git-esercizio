@@ -2,6 +2,14 @@ Ristorante Develop
 
 Menù Di Pesce E Di Carne
 
+-Primi piatti
+Maloreddus alla campidanese
+Lasagne alla bolognese
+Carbonara
+
+-Secondi piatti
+Maialetto arrosto
+
 -Bevande
 Gin Tonic
 Vodka Tonic
@@ -10,6 +18,7 @@ Birra
 Rum & Cola
 Mirto
 
--Primi piatti
-Lasagne alla bolognese
-Carbonara
+menu Carne
+involtini siciliani
+angello fritto 
+
