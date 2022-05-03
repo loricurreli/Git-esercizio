@@ -2,6 +2,12 @@ Ristorante Develop
 
 Menù Di Pesce E Di Carne
 
+-Primi piatti
+Maloreddus alla campidanese
+
+-Secondi piatti
+Maialetto arrosto
+
 -Bevande
 Gin Tonic
 Vodka Tonic
