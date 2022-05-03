@@ -4,6 +4,8 @@ Menù Di Pesce E Di Carne
 
 -Primi piatti
 Maloreddus alla campidanese
+Lasagne alla bolognese
+Carbonara
 
 -Secondi piatti
 Maialetto arrosto
@@ -17,6 +19,6 @@ Rum & Cola
 Mirto
 
 menu Carne
-
 involtini siciliani
 angello fritto 
+
