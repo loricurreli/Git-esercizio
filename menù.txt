@@ -9,3 +9,7 @@ Vino Rosso
 Birra
 Rum & Cola
 Mirto
+
+Pizza
+
+Lasagne
